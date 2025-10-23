@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "d1-merula-links",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1aad783d-4688-4e9c-ba0a-e57a3787b87d",
+      "database_name": "d1-merula-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
